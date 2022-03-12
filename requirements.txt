@@ -1,0 +1,15 @@
+cffi==1.15.0
+EasyProcess==1.1
+entrypoint2==1.0
+evdev==1.4.0
+httpsproxy-urllib2==1.0
+jeepney==0.7.1
+mss==6.1.0
+pycparser==2.21
+pynput==1.7.6
+pyscreenshot==3.0
+python-xlib==0.31
+six==1.16.0
+sounddevice==0.4.4
+urllib2-file==0.2.1
+urllib2-prior-auth==0.2.0
